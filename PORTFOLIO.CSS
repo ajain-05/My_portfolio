@@ -20,7 +20,9 @@ header{
 #contactMe{
     padding-top: 60px;
 }
-a{
+header > a{
+    color: white;
+}{
     color: white;
 }
 #linkedin{
