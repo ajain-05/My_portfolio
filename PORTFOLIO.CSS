@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: gray;
+}
+#Home{
+    padding-top: 60px;
+}
+#aboutMe{
+    padding-top: 60px;
+}
+#Projects{
+    padding-top: 60px;
+}
+#contactMe{
+    padding-top: 60px;
+}
+a{
+    color: white;
+}
